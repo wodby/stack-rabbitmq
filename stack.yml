@@ -1,0 +1,11 @@
+name: rabbitmq
+title: RabbitMQ
+icon: rabbitmq
+
+services:
+- name: rabbitmq
+  title: RabbitMQ
+  service: rabbitmq
+  volumes:
+  - name: data
+    size: 5

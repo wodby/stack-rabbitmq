@@ -1,2 +1,1 @@
-# stack-rabbitmq
-RabbitMQ stack for Wodby 2.0
+# RabbitMQ stack for Wodby 2.0
