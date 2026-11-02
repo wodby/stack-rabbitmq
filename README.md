@@ -11,6 +11,7 @@ composition for RabbitMQ.
 
 - [RabbitMQ stack on Wodby](https://wodby.com/stacks/rabbitmq)
 - [Browse Wodby application stacks](https://wodby.com/stacks)
+- [RabbitMQ stack guide](https://wodby.com/docs/2.0/stacks/catalog/rabbitmq/)
 - [Wodby stack documentation](https://wodby.com/docs/2.0/stacks/)
 - [Stack manifest reference](https://wodby.com/docs/2.0/stacks/template/)
 
