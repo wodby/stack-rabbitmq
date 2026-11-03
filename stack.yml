@@ -1,6 +1,7 @@
 name: rabbitmq
 title: RabbitMQ
 icon: rabbitmq
+docs: https://wodby.com/docs/2.0/stacks/catalog/rabbitmq/
 
 services:
 - name: rabbitmq
